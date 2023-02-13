@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Disney-Kizo.mp3</file>
+        <file>Ale-Jazz.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>kizo.jpg</file>
+        <file>sanah.jpg</file>
+        <file>nuta.jpg</file>
+        <file>scena.jpg</file>
+        <file>kwiatki.jpg</file>
+    </qresource>
+</RCC>
